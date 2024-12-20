@@ -42,9 +42,6 @@ Automatic navigation to the login screen after signing out.
 
 
 # Navigation Drawer
-![image](https://github.com/user-attachments/assets/7930a8c1-a663-46bf-9a12-b9c97e722162)
-
-=============================================
 ![image](https://github.com/user-attachments/assets/efca9353-e979-435b-b364-e269ae13bd8c)
 
 Cars Management
