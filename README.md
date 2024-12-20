@@ -23,32 +23,37 @@ Features a smooth progress indicator during the sign-out process.
 Automatic navigation to the login screen after signing out.
 # Screenshots
 # Home Screen
-![image](https://github.com/user-attachments/assets/6197cc08-921c-4115-bb0a-c04f62a9e8d9)
-
-=============================================
-![image](https://github.com/user-attachments/assets/bbb4e607-467a-4175-8de8-5464d2ef38ab)
+![image](https://github.com/user-attachments/assets/8404665a-b3ad-41b1-899a-2c080ca4aac7)
 
 # Login Screen
-![image](https://github.com/user-attachments/assets/2c2a842a-83b5-4ed4-9be3-c760acf214bc)![image](https://github.com/user-attachments/assets/2c2a842a-83b5-4ed4-9be3-c760acf214bc)
+![image](https://github.com/user-attachments/assets/631f333b-0de4-4ca1-b301-73726854173a)
+
 
 # Sign-Up Screen
-![image](https://github.com/user-attachments/assets/8763ad7c-665c-4865-a63a-fc77414cb657)
+![image](https://github.com/user-attachments/assets/faaa721e-3307-4433-88e7-53c3ea43e388)
+
 
 # Dashboard
-![image](https://github.com/user-attachments/assets/e38e64a7-b899-4b51-960e-10c6b9f3de2b)
+![image](https://github.com/user-attachments/assets/6ce8b5f6-2dc5-4bfe-80f0-271a0d09e614)
+
 
 =============================================
-![WhatsApp Image 2024-12-02 at 11 27 39 AM (1)](https://github.com/user-attachments/assets/e6a6baa6-c0db-4fa1-8c79-a5c4c37c23fd)
+![WhatsApp Image 2024-12-02 at 11 27 39 AM (1)](https://github.com/user-attachments/assets/aba5d96d-6eef-4904-8456-c5939e9a2b9e)
 
 
 # Navigation Drawer
 ![image](https://github.com/user-attachments/assets/7930a8c1-a663-46bf-9a12-b9c97e722162)
 
+=============================================
+![image](https://github.com/user-attachments/assets/efca9353-e979-435b-b364-e269ae13bd8c)
+
 Cars Management
-![image](https://github.com/user-attachments/assets/8c6df3e8-c93b-4c15-bcf3-b20d39bf0519)
+![image](https://github.com/user-attachments/assets/0b5834ab-395b-4fd9-bfe2-8c9f6622c592)
+
 
 Customer Management
-![image](https://github.com/user-attachments/assets/286b1a7e-485e-474e-a88f-ddc84d1fb76a)
+![image](https://github.com/user-attachments/assets/da9f64cb-880c-47bc-96a4-d197aefdafbc)
+
 
 and so on for other tables
 
