@@ -44,11 +44,11 @@ Automatic navigation to the login screen after signing out.
 # Navigation Drawer
 ![image](https://github.com/user-attachments/assets/efca9353-e979-435b-b364-e269ae13bd8c)
 
-Cars Management
+# Cars Management
 ![image](https://github.com/user-attachments/assets/0b5834ab-395b-4fd9-bfe2-8c9f6622c592)
 
 
-Customer Management
+# Customer Management
 ![image](https://github.com/user-attachments/assets/da9f64cb-880c-47bc-96a4-d197aefdafbc)
 
 
